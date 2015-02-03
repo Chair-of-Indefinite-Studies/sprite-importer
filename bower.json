@@ -13,7 +13,8 @@
     "package.json",
     "gulpFile.js",
     "index.html",
-    "application.js"
+    "application.js",
+    "example.json"
   ],
   "dependencies": {},
   "devDependencies": {
